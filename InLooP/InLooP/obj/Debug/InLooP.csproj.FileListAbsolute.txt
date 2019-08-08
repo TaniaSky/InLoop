@@ -1,0 +1,12 @@
+E:\JOB Searching\InLooP\InLooP\bin\Debug\InLooP.dll
+E:\JOB Searching\InLooP\InLooP\bin\Debug\InLooP.pdb
+E:\JOB Searching\InLooP\InLooP\bin\Debug\nunit.framework.dll
+E:\JOB Searching\InLooP\InLooP\bin\Debug\WebDriver.dll
+E:\JOB Searching\InLooP\InLooP\bin\Debug\WebDriver.Support.dll
+E:\JOB Searching\InLooP\InLooP\bin\Debug\nunit.framework.pdb
+E:\JOB Searching\InLooP\InLooP\bin\Debug\nunit.framework.xml
+E:\JOB Searching\InLooP\InLooP\bin\Debug\WebDriver.xml
+E:\JOB Searching\InLooP\InLooP\bin\Debug\WebDriver.Support.xml
+E:\JOB Searching\InLooP\InLooP\obj\Debug\InLooP.dll
+E:\JOB Searching\InLooP\InLooP\obj\Debug\InLooP.pdb
+E:\JOB Searching\InLooP\InLooP\obj\Debug\InLooP.csprojResolveAssemblyReference.cache
